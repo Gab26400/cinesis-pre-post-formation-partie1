@@ -544,7 +544,7 @@ function envoyerReponses(){
         configuration.session.formation,
 
 
-        date:
+        session:
         configuration.session.date,
 
 
