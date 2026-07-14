@@ -10,7 +10,7 @@ const configuration = {
 
     urlGoogleSheet:
 
-    "COLLER_ICI_URL_SCRIPT_GOOGLE",
+    "https://script.google.com/macros/s/AKfycbxtjV961pKej69Adr6OQBbxjpMTkZB3eAQ-I_OseTvDVX-GSSAjzUmaNKqNT0eNZVlz/exec",
 
 
 
